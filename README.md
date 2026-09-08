@@ -2,6 +2,14 @@
 
 <img src="https://github.com/ricardonevesmusic/Reading/blob/main/read.png" width="820px" height="410px"></img>
 
+#### Progresso
+
+- **“A Divina Comédia”** — `Dante Alighieri`
+  - 16%
+
+- **“Katabasis”** — `R.F. Huang`
+  - 17%
+
 #### Checklist
 
 - [ ] Livro
