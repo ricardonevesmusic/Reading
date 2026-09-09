@@ -5,7 +5,7 @@
 #### Progresso
 
 - **“A Divina Comédia”** — `Dante Alighieri`
-  - 9%
+  - 10%
 
 - **“Katabasis”** — `R.F. Huang`
   - 17%
