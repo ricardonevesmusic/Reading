@@ -8,7 +8,7 @@
   - 10%
 
 - **“Katabasis”** — `R.F. Huang`
-  - 18%
+  - 20%
 
 #### Checklist
 
