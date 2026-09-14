@@ -10,6 +10,9 @@
 - **“Katabasis”** — `R.F. Huang`
   - 20%
 
+- **“Yamada Monogatari: The War God's Son”** — `Richard Parks`
+  - 8,44%
+
 #### Checklist
 
 - [ ] Livro
