@@ -11,7 +11,7 @@
   - 20%
 
 - **“Yamada Monogatari: The War God's Son”** — `Richard Parks`
-  - 23%
+  - 35%
 
 #### Checklist
 
